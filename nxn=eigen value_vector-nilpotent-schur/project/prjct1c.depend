@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1507560564 source:c:\users\harun\documents\code blocks\prjct1c\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<vector>
+	<iostream>
+	<fstream>
+	<time.h>
+	<iomanip>
+

@@ -1,0 +1,1406 @@
+Matris :
+    1-L    1    1
+    1    1-L    1
+    1    1    1-L
+
+  101     1     1 
+    1   101     1 
+    1     1   101 
+
+
+k'nin degeri: -100 Determinant : 1.03e+006
+
+  100     1     1 
+    1   100     1 
+    1     1   100 
+
+
+k'nin degeri: -99 Determinant : 999702
+
+   99     1     1 
+    1    99     1 
+    1     1    99 
+
+
+k'nin degeri: -98 Determinant : 970004
+
+   98     1     1 
+    1    98     1 
+    1     1    98 
+
+
+k'nin degeri: -97 Determinant : 940900
+
+   97     1     1 
+    1    97     1 
+    1     1    97 
+
+
+k'nin degeri: -96 Determinant : 912384
+
+   96     1     1 
+    1    96     1 
+    1     1    96 
+
+
+k'nin degeri: -95 Determinant : 884450
+
+   95     1     1 
+    1    95     1 
+    1     1    95 
+
+
+k'nin degeri: -94 Determinant : 857092
+
+   94     1     1 
+    1    94     1 
+    1     1    94 
+
+
+k'nin degeri: -93 Determinant : 830304
+
+   93     1     1 
+    1    93     1 
+    1     1    93 
+
+
+k'nin degeri: -92 Determinant : 804080
+
+   92     1     1 
+    1    92     1 
+    1     1    92 
+
+
+k'nin degeri: -91 Determinant : 778414
+
+   91     1     1 
+    1    91     1 
+    1     1    91 
+
+
+k'nin degeri: -90 Determinant : 753300
+
+   90     1     1 
+    1    90     1 
+    1     1    90 
+
+
+k'nin degeri: -89 Determinant : 728732
+
+   89     1     1 
+    1    89     1 
+    1     1    89 
+
+
+k'nin degeri: -88 Determinant : 704704
+
+   88     1     1 
+    1    88     1 
+    1     1    88 
+
+
+k'nin degeri: -87 Determinant : 681210
+
+   87     1     1 
+    1    87     1 
+    1     1    87 
+
+
+k'nin degeri: -86 Determinant : 658244
+
+   86     1     1 
+    1    86     1 
+    1     1    86 
+
+
+k'nin degeri: -85 Determinant : 635800
+
+   85     1     1 
+    1    85     1 
+    1     1    85 
+
+
+k'nin degeri: -84 Determinant : 613872
+
+   84     1     1 
+    1    84     1 
+    1     1    84 
+
+
+k'nin degeri: -83 Determinant : 592454
+
+   83     1     1 
+    1    83     1 
+    1     1    83 
+
+
+k'nin degeri: -82 Determinant : 571540
+
+   82     1     1 
+    1    82     1 
+    1     1    82 
+
+
+k'nin degeri: -81 Determinant : 551124
+
+   81     1     1 
+    1    81     1 
+    1     1    81 
+
+
+k'nin degeri: -80 Determinant : 531200
+
+   80     1     1 
+    1    80     1 
+    1     1    80 
+
+
+k'nin degeri: -79 Determinant : 511762
+
+   79     1     1 
+    1    79     1 
+    1     1    79 
+
+
+k'nin degeri: -78 Determinant : 492804
+
+   78     1     1 
+    1    78     1 
+    1     1    78 
+
+
+k'nin degeri: -77 Determinant : 474320
+
+   77     1     1 
+    1    77     1 
+    1     1    77 
+
+
+k'nin degeri: -76 Determinant : 456304
+
+   76     1     1 
+    1    76     1 
+    1     1    76 
+
+
+k'nin degeri: -75 Determinant : 438750
+
+   75     1     1 
+    1    75     1 
+    1     1    75 
+
+
+k'nin degeri: -74 Determinant : 421652
+
+   74     1     1 
+    1    74     1 
+    1     1    74 
+
+
+k'nin degeri: -73 Determinant : 405004
+
+   73     1     1 
+    1    73     1 
+    1     1    73 
+
+
+k'nin degeri: -72 Determinant : 388800
+
+   72     1     1 
+    1    72     1 
+    1     1    72 
+
+
+k'nin degeri: -71 Determinant : 373034
+
+   71     1     1 
+    1    71     1 
+    1     1    71 
+
+
+k'nin degeri: -70 Determinant : 357700
+
+   70     1     1 
+    1    70     1 
+    1     1    70 
+
+
+k'nin degeri: -69 Determinant : 342792
+
+   69     1     1 
+    1    69     1 
+    1     1    69 
+
+
+k'nin degeri: -68 Determinant : 328304
+
+   68     1     1 
+    1    68     1 
+    1     1    68 
+
+
+k'nin degeri: -67 Determinant : 314230
+
+   67     1     1 
+    1    67     1 
+    1     1    67 
+
+
+k'nin degeri: -66 Determinant : 300564
+
+   66     1     1 
+    1    66     1 
+    1     1    66 
+
+
+k'nin degeri: -65 Determinant : 287300
+
+   65     1     1 
+    1    65     1 
+    1     1    65 
+
+
+k'nin degeri: -64 Determinant : 274432
+
+   64     1     1 
+    1    64     1 
+    1     1    64 
+
+
+k'nin degeri: -63 Determinant : 261954
+
+   63     1     1 
+    1    63     1 
+    1     1    63 
+
+
+k'nin degeri: -62 Determinant : 249860
+
+   62     1     1 
+    1    62     1 
+    1     1    62 
+
+
+k'nin degeri: -61 Determinant : 238144
+
+   61     1     1 
+    1    61     1 
+    1     1    61 
+
+
+k'nin degeri: -60 Determinant : 226800
+
+   60     1     1 
+    1    60     1 
+    1     1    60 
+
+
+k'nin degeri: -59 Determinant : 215822
+
+   59     1     1 
+    1    59     1 
+    1     1    59 
+
+
+k'nin degeri: -58 Determinant : 205204
+
+   58     1     1 
+    1    58     1 
+    1     1    58 
+
+
+k'nin degeri: -57 Determinant : 194940
+
+   57     1     1 
+    1    57     1 
+    1     1    57 
+
+
+k'nin degeri: -56 Determinant : 185024
+
+   56     1     1 
+    1    56     1 
+    1     1    56 
+
+
+k'nin degeri: -55 Determinant : 175450
+
+   55     1     1 
+    1    55     1 
+    1     1    55 
+
+
+k'nin degeri: -54 Determinant : 166212
+
+   54     1     1 
+    1    54     1 
+    1     1    54 
+
+
+k'nin degeri: -53 Determinant : 157304
+
+   53     1     1 
+    1    53     1 
+    1     1    53 
+
+
+k'nin degeri: -52 Determinant : 148720
+
+   52     1     1 
+    1    52     1 
+    1     1    52 
+
+
+k'nin degeri: -51 Determinant : 140454
+
+   51     1     1 
+    1    51     1 
+    1     1    51 
+
+
+k'nin degeri: -50 Determinant : 132500
+
+   50     1     1 
+    1    50     1 
+    1     1    50 
+
+
+k'nin degeri: -49 Determinant : 124852
+
+   49     1     1 
+    1    49     1 
+    1     1    49 
+
+
+k'nin degeri: -48 Determinant : 117504
+
+   48     1     1 
+    1    48     1 
+    1     1    48 
+
+
+k'nin degeri: -47 Determinant : 110450
+
+   47     1     1 
+    1    47     1 
+    1     1    47 
+
+
+k'nin degeri: -46 Determinant : 103684
+
+   46     1     1 
+    1    46     1 
+    1     1    46 
+
+
+k'nin degeri: -45 Determinant : 97200
+
+   45     1     1 
+    1    45     1 
+    1     1    45 
+
+
+k'nin degeri: -44 Determinant : 90992
+
+   44     1     1 
+    1    44     1 
+    1     1    44 
+
+
+k'nin degeri: -43 Determinant : 85054
+
+   43     1     1 
+    1    43     1 
+    1     1    43 
+
+
+k'nin degeri: -42 Determinant : 79380
+
+   42     1     1 
+    1    42     1 
+    1     1    42 
+
+
+k'nin degeri: -41 Determinant : 73964
+
+   41     1     1 
+    1    41     1 
+    1     1    41 
+
+
+k'nin degeri: -40 Determinant : 68800
+
+   40     1     1 
+    1    40     1 
+    1     1    40 
+
+
+k'nin degeri: -39 Determinant : 63882
+
+   39     1     1 
+    1    39     1 
+    1     1    39 
+
+
+k'nin degeri: -38 Determinant : 59204
+
+   38     1     1 
+    1    38     1 
+    1     1    38 
+
+
+k'nin degeri: -37 Determinant : 54760
+
+   37     1     1 
+    1    37     1 
+    1     1    37 
+
+
+k'nin degeri: -36 Determinant : 50544
+
+   36     1     1 
+    1    36     1 
+    1     1    36 
+
+
+k'nin degeri: -35 Determinant : 46550
+
+   35     1     1 
+    1    35     1 
+    1     1    35 
+
+
+k'nin degeri: -34 Determinant : 42772
+
+   34     1     1 
+    1    34     1 
+    1     1    34 
+
+
+k'nin degeri: -33 Determinant : 39204
+
+   33     1     1 
+    1    33     1 
+    1     1    33 
+
+
+k'nin degeri: -32 Determinant : 35840
+
+   32     1     1 
+    1    32     1 
+    1     1    32 
+
+
+k'nin degeri: -31 Determinant : 32674
+
+   31     1     1 
+    1    31     1 
+    1     1    31 
+
+
+k'nin degeri: -30 Determinant : 29700
+
+   30     1     1 
+    1    30     1 
+    1     1    30 
+
+
+k'nin degeri: -29 Determinant : 26912
+
+   29     1     1 
+    1    29     1 
+    1     1    29 
+
+
+k'nin degeri: -28 Determinant : 24304
+
+   28     1     1 
+    1    28     1 
+    1     1    28 
+
+
+k'nin degeri: -27 Determinant : 21870
+
+   27     1     1 
+    1    27     1 
+    1     1    27 
+
+
+k'nin degeri: -26 Determinant : 19604
+
+   26     1     1 
+    1    26     1 
+    1     1    26 
+
+
+k'nin degeri: -25 Determinant : 17500
+
+   25     1     1 
+    1    25     1 
+    1     1    25 
+
+
+k'nin degeri: -24 Determinant : 15552
+
+   24     1     1 
+    1    24     1 
+    1     1    24 
+
+
+k'nin degeri: -23 Determinant : 13754
+
+   23     1     1 
+    1    23     1 
+    1     1    23 
+
+
+k'nin degeri: -22 Determinant : 12100
+
+   22     1     1 
+    1    22     1 
+    1     1    22 
+
+
+k'nin degeri: -21 Determinant : 10584
+
+   21     1     1 
+    1    21     1 
+    1     1    21 
+
+
+k'nin degeri: -20 Determinant : 9200
+
+   20     1     1 
+    1    20     1 
+    1     1    20 
+
+
+k'nin degeri: -19 Determinant : 7942
+
+   19     1     1 
+    1    19     1 
+    1     1    19 
+
+
+k'nin degeri: -18 Determinant : 6804
+
+   18     1     1 
+    1    18     1 
+    1     1    18 
+
+
+k'nin degeri: -17 Determinant : 5780
+
+   17     1     1 
+    1    17     1 
+    1     1    17 
+
+
+k'nin degeri: -16 Determinant : 4864
+
+   16     1     1 
+    1    16     1 
+    1     1    16 
+
+
+k'nin degeri: -15 Determinant : 4050
+
+   15     1     1 
+    1    15     1 
+    1     1    15 
+
+
+k'nin degeri: -14 Determinant : 3332
+
+   14     1     1 
+    1    14     1 
+    1     1    14 
+
+
+k'nin degeri: -13 Determinant : 2704
+
+   13     1     1 
+    1    13     1 
+    1     1    13 
+
+
+k'nin degeri: -12 Determinant : 2160
+
+   12     1     1 
+    1    12     1 
+    1     1    12 
+
+
+k'nin degeri: -11 Determinant : 1694
+
+   11     1     1 
+    1    11     1 
+    1     1    11 
+
+
+k'nin degeri: -10 Determinant : 1300
+
+   10     1     1 
+    1    10     1 
+    1     1    10 
+
+
+k'nin degeri: -9 Determinant : 972
+
+    9     1     1 
+    1     9     1 
+    1     1     9 
+
+
+k'nin degeri: -8 Determinant : 704
+
+    8     1     1 
+    1     8     1 
+    1     1     8 
+
+
+k'nin degeri: -7 Determinant : 490
+
+    7     1     1 
+    1     7     1 
+    1     1     7 
+
+
+k'nin degeri: -6 Determinant : 324
+
+    6     1     1 
+    1     6     1 
+    1     1     6 
+
+
+k'nin degeri: -5 Determinant : 200
+
+    5     1     1 
+    1     5     1 
+    1     1     5 
+
+
+k'nin degeri: -4 Determinant : 112
+
+    4     1     1 
+    1     4     1 
+    1     1     4 
+
+
+k'nin degeri: -3 Determinant : 54
+
+    3     1     1 
+    1     3     1 
+    1     1     3 
+
+
+k'nin degeri: -2 Determinant : 20
+
+    2     1     1 
+    1     2     1 
+    1     1     2 
+
+
+k'nin degeri: -1 Determinant : 4
+
+    1     1     1 
+    1     1     1 
+    1     1     1 
+
+
+k'nin degeri: 0 Determinant : 0
+
+    0     1     1 
+    1     0     1 
+    1     1     0 
+
+
+k'nin degeri: 1 Determinant : 2
+
+   -1     1     1 
+    1    -1     1 
+    1     1    -1 
+
+
+k'nin degeri: 2 Determinant : 4
+
+   -2     1     1 
+    1    -2     1 
+    1     1    -2 
+
+
+k'nin degeri: 3 Determinant : 0
+
+   -3     1     1 
+    1    -3     1 
+    1     1    -3 
+
+
+k'nin degeri: 4 Determinant : -16
+
+   -4     1     1 
+    1    -4     1 
+    1     1    -4 
+
+
+k'nin degeri: 5 Determinant : -50
+
+   -5     1     1 
+    1    -5     1 
+    1     1    -5 
+
+
+k'nin degeri: 6 Determinant : -108
+
+   -6     1     1 
+    1    -6     1 
+    1     1    -6 
+
+
+k'nin degeri: 7 Determinant : -196
+
+   -7     1     1 
+    1    -7     1 
+    1     1    -7 
+
+
+k'nin degeri: 8 Determinant : -320
+
+   -8     1     1 
+    1    -8     1 
+    1     1    -8 
+
+
+k'nin degeri: 9 Determinant : -486
+
+   -9     1     1 
+    1    -9     1 
+    1     1    -9 
+
+
+k'nin degeri: 10 Determinant : -700
+
+  -10     1     1 
+    1   -10     1 
+    1     1   -10 
+
+
+k'nin degeri: 11 Determinant : -968
+
+  -11     1     1 
+    1   -11     1 
+    1     1   -11 
+
+
+k'nin degeri: 12 Determinant : -1296
+
+  -12     1     1 
+    1   -12     1 
+    1     1   -12 
+
+
+k'nin degeri: 13 Determinant : -1690
+
+  -13     1     1 
+    1   -13     1 
+    1     1   -13 
+
+
+k'nin degeri: 14 Determinant : -2156
+
+  -14     1     1 
+    1   -14     1 
+    1     1   -14 
+
+
+k'nin degeri: 15 Determinant : -2700
+
+  -15     1     1 
+    1   -15     1 
+    1     1   -15 
+
+
+k'nin degeri: 16 Determinant : -3328
+
+  -16     1     1 
+    1   -16     1 
+    1     1   -16 
+
+
+k'nin degeri: 17 Determinant : -4046
+
+  -17     1     1 
+    1   -17     1 
+    1     1   -17 
+
+
+k'nin degeri: 18 Determinant : -4860
+
+  -18     1     1 
+    1   -18     1 
+    1     1   -18 
+
+
+k'nin degeri: 19 Determinant : -5776
+
+  -19     1     1 
+    1   -19     1 
+    1     1   -19 
+
+
+k'nin degeri: 20 Determinant : -6800
+
+  -20     1     1 
+    1   -20     1 
+    1     1   -20 
+
+
+k'nin degeri: 21 Determinant : -7938
+
+  -21     1     1 
+    1   -21     1 
+    1     1   -21 
+
+
+k'nin degeri: 22 Determinant : -9196
+
+  -22     1     1 
+    1   -22     1 
+    1     1   -22 
+
+
+k'nin degeri: 23 Determinant : -10580
+
+  -23     1     1 
+    1   -23     1 
+    1     1   -23 
+
+
+k'nin degeri: 24 Determinant : -12096
+
+  -24     1     1 
+    1   -24     1 
+    1     1   -24 
+
+
+k'nin degeri: 25 Determinant : -13750
+
+  -25     1     1 
+    1   -25     1 
+    1     1   -25 
+
+
+k'nin degeri: 26 Determinant : -15548
+
+  -26     1     1 
+    1   -26     1 
+    1     1   -26 
+
+
+k'nin degeri: 27 Determinant : -17496
+
+  -27     1     1 
+    1   -27     1 
+    1     1   -27 
+
+
+k'nin degeri: 28 Determinant : -19600
+
+  -28     1     1 
+    1   -28     1 
+    1     1   -28 
+
+
+k'nin degeri: 29 Determinant : -21866
+
+  -29     1     1 
+    1   -29     1 
+    1     1   -29 
+
+
+k'nin degeri: 30 Determinant : -24300
+
+  -30     1     1 
+    1   -30     1 
+    1     1   -30 
+
+
+k'nin degeri: 31 Determinant : -26908
+
+  -31     1     1 
+    1   -31     1 
+    1     1   -31 
+
+
+k'nin degeri: 32 Determinant : -29696
+
+  -32     1     1 
+    1   -32     1 
+    1     1   -32 
+
+
+k'nin degeri: 33 Determinant : -32670
+
+  -33     1     1 
+    1   -33     1 
+    1     1   -33 
+
+
+k'nin degeri: 34 Determinant : -35836
+
+  -34     1     1 
+    1   -34     1 
+    1     1   -34 
+
+
+k'nin degeri: 35 Determinant : -39200
+
+  -35     1     1 
+    1   -35     1 
+    1     1   -35 
+
+
+k'nin degeri: 36 Determinant : -42768
+
+  -36     1     1 
+    1   -36     1 
+    1     1   -36 
+
+
+k'nin degeri: 37 Determinant : -46546
+
+  -37     1     1 
+    1   -37     1 
+    1     1   -37 
+
+
+k'nin degeri: 38 Determinant : -50540
+
+  -38     1     1 
+    1   -38     1 
+    1     1   -38 
+
+
+k'nin degeri: 39 Determinant : -54756
+
+  -39     1     1 
+    1   -39     1 
+    1     1   -39 
+
+
+k'nin degeri: 40 Determinant : -59200
+
+  -40     1     1 
+    1   -40     1 
+    1     1   -40 
+
+
+k'nin degeri: 41 Determinant : -63878
+
+  -41     1     1 
+    1   -41     1 
+    1     1   -41 
+
+
+k'nin degeri: 42 Determinant : -68796
+
+  -42     1     1 
+    1   -42     1 
+    1     1   -42 
+
+
+k'nin degeri: 43 Determinant : -73960
+
+  -43     1     1 
+    1   -43     1 
+    1     1   -43 
+
+
+k'nin degeri: 44 Determinant : -79376
+
+  -44     1     1 
+    1   -44     1 
+    1     1   -44 
+
+
+k'nin degeri: 45 Determinant : -85050
+
+  -45     1     1 
+    1   -45     1 
+    1     1   -45 
+
+
+k'nin degeri: 46 Determinant : -90988
+
+  -46     1     1 
+    1   -46     1 
+    1     1   -46 
+
+
+k'nin degeri: 47 Determinant : -97196
+
+  -47     1     1 
+    1   -47     1 
+    1     1   -47 
+
+
+k'nin degeri: 48 Determinant : -103680
+
+  -48     1     1 
+    1   -48     1 
+    1     1   -48 
+
+
+k'nin degeri: 49 Determinant : -110446
+
+  -49     1     1 
+    1   -49     1 
+    1     1   -49 
+
+
+k'nin degeri: 50 Determinant : -117500
+
+  -50     1     1 
+    1   -50     1 
+    1     1   -50 
+
+
+k'nin degeri: 51 Determinant : -124848
+
+  -51     1     1 
+    1   -51     1 
+    1     1   -51 
+
+
+k'nin degeri: 52 Determinant : -132496
+
+  -52     1     1 
+    1   -52     1 
+    1     1   -52 
+
+
+k'nin degeri: 53 Determinant : -140450
+
+  -53     1     1 
+    1   -53     1 
+    1     1   -53 
+
+
+k'nin degeri: 54 Determinant : -148716
+
+  -54     1     1 
+    1   -54     1 
+    1     1   -54 
+
+
+k'nin degeri: 55 Determinant : -157300
+
+  -55     1     1 
+    1   -55     1 
+    1     1   -55 
+
+
+k'nin degeri: 56 Determinant : -166208
+
+  -56     1     1 
+    1   -56     1 
+    1     1   -56 
+
+
+k'nin degeri: 57 Determinant : -175446
+
+  -57     1     1 
+    1   -57     1 
+    1     1   -57 
+
+
+k'nin degeri: 58 Determinant : -185020
+
+  -58     1     1 
+    1   -58     1 
+    1     1   -58 
+
+
+k'nin degeri: 59 Determinant : -194936
+
+  -59     1     1 
+    1   -59     1 
+    1     1   -59 
+
+
+k'nin degeri: 60 Determinant : -205200
+
+  -60     1     1 
+    1   -60     1 
+    1     1   -60 
+
+
+k'nin degeri: 61 Determinant : -215818
+
+  -61     1     1 
+    1   -61     1 
+    1     1   -61 
+
+
+k'nin degeri: 62 Determinant : -226796
+
+  -62     1     1 
+    1   -62     1 
+    1     1   -62 
+
+
+k'nin degeri: 63 Determinant : -238140
+
+  -63     1     1 
+    1   -63     1 
+    1     1   -63 
+
+
+k'nin degeri: 64 Determinant : -249856
+
+  -64     1     1 
+    1   -64     1 
+    1     1   -64 
+
+
+k'nin degeri: 65 Determinant : -261950
+
+  -65     1     1 
+    1   -65     1 
+    1     1   -65 
+
+
+k'nin degeri: 66 Determinant : -274428
+
+  -66     1     1 
+    1   -66     1 
+    1     1   -66 
+
+
+k'nin degeri: 67 Determinant : -287296
+
+  -67     1     1 
+    1   -67     1 
+    1     1   -67 
+
+
+k'nin degeri: 68 Determinant : -300560
+
+  -68     1     1 
+    1   -68     1 
+    1     1   -68 
+
+
+k'nin degeri: 69 Determinant : -314226
+
+  -69     1     1 
+    1   -69     1 
+    1     1   -69 
+
+
+k'nin degeri: 70 Determinant : -328300
+
+  -70     1     1 
+    1   -70     1 
+    1     1   -70 
+
+
+k'nin degeri: 71 Determinant : -342788
+
+  -71     1     1 
+    1   -71     1 
+    1     1   -71 
+
+
+k'nin degeri: 72 Determinant : -357696
+
+  -72     1     1 
+    1   -72     1 
+    1     1   -72 
+
+
+k'nin degeri: 73 Determinant : -373030
+
+  -73     1     1 
+    1   -73     1 
+    1     1   -73 
+
+
+k'nin degeri: 74 Determinant : -388796
+
+  -74     1     1 
+    1   -74     1 
+    1     1   -74 
+
+
+k'nin degeri: 75 Determinant : -405000
+
+  -75     1     1 
+    1   -75     1 
+    1     1   -75 
+
+
+k'nin degeri: 76 Determinant : -421648
+
+  -76     1     1 
+    1   -76     1 
+    1     1   -76 
+
+
+k'nin degeri: 77 Determinant : -438746
+
+  -77     1     1 
+    1   -77     1 
+    1     1   -77 
+
+
+k'nin degeri: 78 Determinant : -456300
+
+  -78     1     1 
+    1   -78     1 
+    1     1   -78 
+
+
+k'nin degeri: 79 Determinant : -474316
+
+  -79     1     1 
+    1   -79     1 
+    1     1   -79 
+
+
+k'nin degeri: 80 Determinant : -492800
+
+  -80     1     1 
+    1   -80     1 
+    1     1   -80 
+
+
+k'nin degeri: 81 Determinant : -511758
+
+  -81     1     1 
+    1   -81     1 
+    1     1   -81 
+
+
+k'nin degeri: 82 Determinant : -531196
+
+  -82     1     1 
+    1   -82     1 
+    1     1   -82 
+
+
+k'nin degeri: 83 Determinant : -551120
+
+  -83     1     1 
+    1   -83     1 
+    1     1   -83 
+
+
+k'nin degeri: 84 Determinant : -571536
+
+  -84     1     1 
+    1   -84     1 
+    1     1   -84 
+
+
+k'nin degeri: 85 Determinant : -592450
+
+  -85     1     1 
+    1   -85     1 
+    1     1   -85 
+
+
+k'nin degeri: 86 Determinant : -613868
+
+  -86     1     1 
+    1   -86     1 
+    1     1   -86 
+
+
+k'nin degeri: 87 Determinant : -635796
+
+  -87     1     1 
+    1   -87     1 
+    1     1   -87 
+
+
+k'nin degeri: 88 Determinant : -658240
+
+  -88     1     1 
+    1   -88     1 
+    1     1   -88 
+
+
+k'nin degeri: 89 Determinant : -681206
+
+  -89     1     1 
+    1   -89     1 
+    1     1   -89 
+
+
+k'nin degeri: 90 Determinant : -704700
+
+  -90     1     1 
+    1   -90     1 
+    1     1   -90 
+
+
+k'nin degeri: 91 Determinant : -728728
+
+  -91     1     1 
+    1   -91     1 
+    1     1   -91 
+
+
+k'nin degeri: 92 Determinant : -753296
+
+  -92     1     1 
+    1   -92     1 
+    1     1   -92 
+
+
+k'nin degeri: 93 Determinant : -778410
+
+  -93     1     1 
+    1   -93     1 
+    1     1   -93 
+
+
+k'nin degeri: 94 Determinant : -804076
+
+  -94     1     1 
+    1   -94     1 
+    1     1   -94 
+
+
+k'nin degeri: 95 Determinant : -830300
+
+  -95     1     1 
+    1   -95     1 
+    1     1   -95 
+
+
+k'nin degeri: 96 Determinant : -857088
+
+  -96     1     1 
+    1   -96     1 
+    1     1   -96 
+
+
+k'nin degeri: 97 Determinant : -884446
+
+  -97     1     1 
+    1   -97     1 
+    1     1   -97 
+
+
+k'nin degeri: 98 Determinant : -912380
+
+  -98     1     1 
+    1   -98     1 
+    1     1   -98 
+
+
+k'nin degeri: 99 Determinant : -940896
+
+Ozdeger : 0  Ozdeger : 3  

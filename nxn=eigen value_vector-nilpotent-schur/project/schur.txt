@@ -1,0 +1,11 @@
+Matris :
+    1    1    1
+    1    1    1
+    1    1    1
+
+Matris elemanlarinin kareleri alinir
+Kareler toplami :9
+Ozdegerler : 0  Ozdegerler : 3  
+Ozdegerlerin kareleri toplami9
+Sinirimiz : |lamda|<= (sqrt)9 ve 
+|f(x)|<=  (sqrt)9
